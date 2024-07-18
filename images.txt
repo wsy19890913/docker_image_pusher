@@ -1,1 +1,1 @@
-nginx:stable-perl
+nacos/nacos-server:v2.3.2
