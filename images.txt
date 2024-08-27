@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-05-10T01-41-38Z
+easzlab/kubeasz:3.6.4
