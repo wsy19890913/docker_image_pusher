@@ -1,1 +1,1 @@
-quay.io/prometheus/alertmanager:v0.26.0
+grafana/grafana:9.5.3
