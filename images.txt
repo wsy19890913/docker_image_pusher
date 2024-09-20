@@ -1,1 +1,1 @@
-inrgihc/greenplum:6.16.3
+nginx
