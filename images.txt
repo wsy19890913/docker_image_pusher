@@ -1,1 +1,1 @@
-greenplum:6.12.0
+inrgihc/greenplum:6.16.3
