@@ -1,1 +1,1 @@
-elasticsearch:6.5.4
+greenplum:6.12.0
