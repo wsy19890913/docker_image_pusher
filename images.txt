@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.0.3
+tdengine/tdengine:3.0.2.6
