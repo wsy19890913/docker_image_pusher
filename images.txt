@@ -1,1 +1,1 @@
-redis:4.0.2
+xuxueli/xxl-job-admin:2.3.1
