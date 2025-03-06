@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-01-18T00-31-37Z
+jenkins/jenkins
