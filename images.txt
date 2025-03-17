@@ -1,1 +1,1 @@
-keking/kkfileview
+openjdk:7-jre-slim
