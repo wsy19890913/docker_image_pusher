@@ -1,1 +1,1 @@
-fauria/vsftpd
+mobz/elasticsearch-head:5
