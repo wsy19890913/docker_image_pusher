@@ -1,1 +1,1 @@
-twang2218/gitlab-ce-zh:9.4
+rabbitmq:3-management-mqtt
