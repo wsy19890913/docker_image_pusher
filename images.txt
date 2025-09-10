@@ -1,1 +1,1 @@
-pivotaldata/gpdb6:6.26.5
+greenplum:6.26.5
