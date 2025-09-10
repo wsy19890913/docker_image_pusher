@@ -1,1 +1,1 @@
-wdkang/kafka-console-ui
+pivotaldata/gpdb6:6.26.5
