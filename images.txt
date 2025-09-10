@@ -1,1 +1,1 @@
-greenplum:6.26.5
+greenplumdb/gpdb6:6.26.5
