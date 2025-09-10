@@ -1,1 +1,1 @@
-greenplum:6.20
+greenplum/greenplum:7
