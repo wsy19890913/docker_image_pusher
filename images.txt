@@ -1,1 +1,1 @@
-greenplum/greenplum:7
+648540858/wvp_pro
