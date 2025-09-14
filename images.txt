@@ -1,1 +1,1 @@
-648540858/wvp_pro
+nginx:alpine
