@@ -1,1 +1,1 @@
-andruche/greenplum:6
+andruche/greenplum:7
