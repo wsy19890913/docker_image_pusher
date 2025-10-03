@@ -1,1 +1,2 @@
-andruche/greenplum:7
+docker.io/bitnami/postgresql-repmgr:17
+bitnami/pgpool:4
